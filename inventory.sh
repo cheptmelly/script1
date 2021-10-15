@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Nancy M
+#Author: N M
 #Date: April 21, 2021
 
 echo -e "\n Checking the cpu info \n"
